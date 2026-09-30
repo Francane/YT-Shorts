@@ -1,0 +1,8 @@
+{
+  "pilot": "How to Tie a Tie — Four-in-Hand",
+  "status": "Mechanical architecture proof validated",
+  "validated_chain": ["S1 CROSS","S2 BEHIND","S3 FRONT BAND","S4 NECK LOOP EXIT","S5 FRONT BAND EXIT","S6 SNUG","S7 FINAL"],
+  "production_rule": "Mechanical instructional states are deterministic authored geometry; generative AI does not infer tie topology.",
+  "rendering_rule": "Use explicit paths, z-order, masks and state transitions. AI remains appropriate for character/environment/narrative artwork.",
+  "next_build": "Replace schematic placeholders with locked Milo/TIE-FIH-01 visual language while preserving the validated mechanical state logic."
+}
