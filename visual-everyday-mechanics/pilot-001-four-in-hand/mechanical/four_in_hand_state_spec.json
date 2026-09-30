@@ -1,0 +1,14 @@
+{
+  "asset": "TIE-FIH-01",
+  "principle": "authored geometry; no generative topology",
+  "states": {
+    "S1": {"meaning":"wide OVER narrow"},
+    "S2": {"meaning":"wide BEHIND narrow"},
+    "S3": {"meaning":"front band created"},
+    "S4": {"meaning":"wide rises BEHIND knot / through neck loop"},
+    "S5": {"meaning":"wide descends BEHIND front band and exits below"},
+    "S6": {"meaning":"pull wide down / snug knot"},
+    "S7": {"meaning":"knot slides up to collar; wide covers narrow"}
+  },
+  "next_gate": "premium AI render test using deterministic motion reference"
+}
