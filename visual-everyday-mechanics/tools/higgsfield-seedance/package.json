@@ -1,0 +1,17 @@
+{
+  "name": "vem-higgsfield-seedance",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "seedance:test": "tsx index.ts"
+  },
+  "dependencies": {
+    "@higgsfield/client": "latest",
+    "dotenv": "latest"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest",
+    "@types/node": "latest"
+  }
+}
